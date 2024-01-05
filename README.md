@@ -36,7 +36,7 @@ The Visualisation System in task 2 is meant to be interactive with the user. Sin
 
 <div class="container">
     <div class="item">
-        <img src="https://github.com/camillabrigandi/ADM-HW5/tree/main/images/submit.png" width=400 height=125>
+        <img src="images/submit.png" width=400 height=125>
         <p><strong>Here the user has to input the node</strong></p>
     </div>
 </div>
