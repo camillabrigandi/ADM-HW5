@@ -24,23 +24,23 @@ The Visualisation System in task 2 is meant to be interactive with the user. Sin
 Here you are able to see how system 1 is structured with all the pages and possible options:
 
 <p float="left">
-  <div style="text-align: center; margin-right: 20px;">
-    <img src="images/home.png" width="175" height="125" alt="Home Image">
+  <div>
+    <img src="images/home.png" width="175" height="125" />
     <p><strong>Homepage of the system</strong></p>
   </div>
 
-  <div style="text-align: center; margin-right: 20px;">
-    <img src="images/graphs.png" width="250" height="200" alt="Graphs Image">
+  <div>
+    <img src="images/graphs.png" width="250" height="200" />
     <p><strong>The user now has to choose the graph</strong></p>
   </div>
 
-  <div style="text-align: center; margin-right: 20px;">
-    <img src="images/collaboration_graph.png" width="275" height="200" alt="Collaboration Graph Image">
+  <div>
+    <img src="images/collaboration_graph.png" width="275" height="200" />
     <p><strong>Collaboration Graph</strong></p>
   </div>
 
   <div style="text-align: center;">
-    <img src="images/Citation_graph.png" width="275" height="200" alt="Citation Graph Image">
+    <img src="images/Citation_graph.png" width="275" height="200" />
     <p><strong>Citation Graph</strong></p>
   </div>
 </p>
