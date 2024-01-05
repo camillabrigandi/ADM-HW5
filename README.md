@@ -37,7 +37,6 @@ Here you are able to see how system 2 is structured with all the pages and possi
 The system is identical to the previous one except for the fact that after a user has selected the graph, they will be required to input the node of interest.
 
 <img src="images/submit.png" width="300" height="100" alt="Image Alt Text">
-<p><strong>Here the user has to input the node</strong></p>
 
 
 ### System 3
