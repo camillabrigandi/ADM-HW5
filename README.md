@@ -26,8 +26,8 @@ Here you are able to see how system 1 is structured with all the pages and possi
 <p float="left">
   <img src="images/home.png" width="200"  height="150" />
   <img src="images/graphs.png" width="200"  height="200" /> 
-  <img src="images/collaboration_graph.png" width="200" height="300" />
-  <img src="images/Citation_graph.png" width="200" height="300" /> 
+  <img src="images/collaboration_graph.png" width="250" height="200" />
+  <img src="images/Citation_graph.png" width="250" height="200" /> 
 </p>
 
 
