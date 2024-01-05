@@ -19,20 +19,27 @@ This repository contains the submission of Group #9 of the fifth homework for th
 
 The Visualisation System in task 2 is meant to be interactive with the user. Since the cells are already executed, here we plot some examples of how the system is structured. if you want to have a full experience of it, you have to download the __`main.ipynb`__ file and execute the cells. Please, note that some of them may need coupple of minutes to execute due to the large amount of data.
 
+
 <code style="background:red;color:black">**System 1:**</code> <br>
 
-![home](images/home.png)
-<p><strong>Homepage of the system</strong></p>
-
-<img src="images/graphs.png" width=250 height=200 />
-<p><strong>The user now has to choose the graph</strong></p>
-
-<img src="images/collaboration_graph.png" width=350 height=300 />
-<p><strong>Collaboration Graph</strong></p>
-
-<img src="images/Citation_graph.png" width=350 height=300 />
-<p><strong>Citation Graph</strong></p>
-
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
+  <div style="text-align: center; margin: 15px;">
+    <img src="images/home.png" width="250" height="200" alt="Home Image">
+    <p><strong>Homepage of the system</strong></p>
+  </div>
+  <div style="text-align: center; margin: 15px;">
+    <img src="images/graphs.png" width="250" height="200" alt="Graphs Image">
+    <p><strong>The user now has to choose the graph</strong></p>
+  </div>
+  <div style="text-align: center; margin: 15px;">
+    <img src="images/collaboration_graph.png" width="350" height="300" alt="Collaboration Graph Image">
+    <p><strong>Collaboration Graph</strong></p>
+  </div>
+  <div style="text-align: center; margin: 15px;">
+    <img src="images/Citation_graph.png" width="350" height="300" alt="Citation Graph Image">
+    <p><strong>Citation Graph</strong></p>
+  </div>
+</div>
 
 
 <code style="background:red;color:black">**System 2:**</code> <br>
