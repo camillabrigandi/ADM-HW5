@@ -27,12 +27,14 @@ So we stert with the homepage, then the user has to choose the graph and lastly 
 <p float="left">
     <img src="images/home.png" width="175" height="125" />
     <img src="images/graphs.png" width="250" height="200" />
-    <img src="images/collaboration_graph.png" width="275" height="250" />
-    <img src="images/Citation_graph.png" width="275" height="250" />
+    <img src="images/collaboration_graph.png" width="275" height="200" />
+    <img src="images/Citation_graph.png" width="275" height="200" />
 </p>
 
 
 <code style="background:red;color:black">**System 2:**</code> <br>
+Here you are able to see how system 1 is structured with all the pages and possible options:
+The system is identical to the previous one except for the fact that after a user has selected the graph, they will be required to input the node of interest.
 
 <div style="display: flex; justify-content: center;">
     <div style="margin: 5px; text-align: left;">
