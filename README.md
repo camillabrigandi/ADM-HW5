@@ -25,9 +25,14 @@ Here you are able to see how system 1 is structured with all the pages and possi
 
 <p float="left">
   <img src="images/home.png" width="100" />
-  <img src="images/.png" width="100" /> 
-  <img src="images/.png" width="100" />
+  <img src="images/graphs.png" width="100" /> 
 </p>
+
+<p float="left">
+  <img src="images/collaboration_graph.png" width="100" />
+  <img src="images/Citation_graph.png" width="100" /> 
+</p>
+
 
 
 <code style="background:red;color:black">**System 2:**</code> <br>
