@@ -27,10 +27,12 @@ So we stert with the homepage, then the user has to choose the graph and lastly 
 <p float="left">
     <img src="images/home.png" width="150" height="125" />
     <img src="images/graphs.png" width="250" height="200" />
+</p>
+
+<p>
     <img src="images/collaboration_graph.png" width="275" height="200" />
     <img src="images/Citation_graph.png" width="275" height="200" />
 </p>
-
 
 ### System 2
 Here you are able to see how system 2 is structured with all the pages and possible options:
