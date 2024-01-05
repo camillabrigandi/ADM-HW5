@@ -29,7 +29,7 @@ Here you are able to see how system 1 is structured with all the pages and possi
 </p>
 
 <p float="left">
-  <img src="images/collaboration_graph.png" width="200" />
+  <img src="images/collaboration_graph.png" width="200" heigth="100" />
   <img src="images/Citation_graph.png" width="200" /> 
 </p>
 
