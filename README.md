@@ -23,7 +23,7 @@ The Visualisation System in task 2 is meant to be interactive with the user. Sin
 <code style="background:red;color:black">**System 1:**</code> <br>
 Here you are able to see how system 1 is structured with all the pages and possible options:
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
+<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
 
   <div style="text-align: center; margin: 15px;">
     <img src="images/home.png" width="250" height="200" alt="Home Image">
