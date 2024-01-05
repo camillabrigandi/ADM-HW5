@@ -43,7 +43,7 @@ The system is identical to the previous one except for the fact that after a use
 
 ### System 3
 Here you are able to see how system 3 is structured with all the pages and possible options:
-The system is identical to the previous one except for the fact that after a user has selected the graph, they will be required to input all the variable of interest.
+The system is identical to the previous one except for the fact that there is no need to select the graph. The user is required to input all the variable of interest.
 
 <img src="images/input2.png" />
 
