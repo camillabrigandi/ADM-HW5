@@ -27,8 +27,8 @@ So we stert with the homepage, then the user has to choose the graph and lastly 
 <p float="left">
     <img src="images/home.png" width="175" height="125" />
     <img src="images/graphs.png" width="250" height="200" />
-    <img src="images/collaboration_graph.png" width="275" height="200" />
-    <img src="images/Citation_graph.png" width="275" height="200" />
+    <img src="images/collaboration_graph.png" width="300" height="250" />
+    <img src="images/Citation_graph.png" width="300" height="250" />
 </p>
 
 
