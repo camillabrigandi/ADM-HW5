@@ -38,7 +38,7 @@ The system is identical to the previous one except for the fact that after a use
 
 <div style="display: flex; justify-content: center;">
     <div style="margin: 5px; text-align: left;">
-        <img src="images/submit.png" width="400" height="125" alt="Image Alt Text">
+        <img src="images/submit.png" width="300" height="100" alt="Image Alt Text">
         <p><strong>Here the user has to input the node</strong></p>
     </div>
 </div>
