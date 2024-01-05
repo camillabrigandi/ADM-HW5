@@ -20,7 +20,7 @@ This repository contains the submission of Group #9 of the fifth homework for th
 The Visualisation System in task 2 is meant to be interactive with the user. Since the cells are already executed, here we plot some examples of how the system is structured. if you want to have a full experience of it, you have to download the __`main.ipynb`__ file and execute the cells. Please, note that some of them may need coupple of minutes to execute due to the large amount of data.
 
 
-<code style="background:red;color:black">**System 1:**</code> <br>
+### System 1
 Here you are able to see how system 1 is structured with all the pages and possible options:
 So we stert with the homepage, then the user has to choose the graph and lastly they will select the features they want to investigate.
 
@@ -32,16 +32,18 @@ So we stert with the homepage, then the user has to choose the graph and lastly 
 </p>
 
 
-<code style="background:red;color:black">**System 2:**</code> <br>
-Here you are able to see how system 1 is structured with all the pages and possible options:
+### System 2
+Here you are able to see how system 2 is structured with all the pages and possible options:
 The system is identical to the previous one except for the fact that after a user has selected the graph, they will be required to input the node of interest.
 
-<div style="display: flex; justify-content: center;">
-    <div style="margin: 5px; text-align: left;">
-        <img src="images/submit.png" width="300" height="100" alt="Image Alt Text">
-        <p><strong>Here the user has to input the node</strong></p>
-    </div>
-</div>
+<img src="images/submit.png" width="300" height="100" alt="Image Alt Text">
+<p><strong>Here the user has to input the node</strong></p>
 
 
-<code style="background:red;color:black">**System 3:**</code> <br>
+### System 3
+Here you are able to see how system 3 is structured with all the pages and possible options:
+The system is identical to the previous one except for the fact that after a user has selected the graph, they will be required to input all the variable of interest.
+
+
+
+
