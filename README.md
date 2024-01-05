@@ -1,10 +1,13 @@
 # ADM-HW4
 
 ## Team members
+* Camilla Brigandi - 2055650
 * Stefano Rinaldi - 1945551
+* 
+*
 
 
-This repository contains the submission of Group # of the fifth homework for the course "Algorithmic Methods of Data Mining", Academic year 2023–2024.
+This repository contains the submission of Group #9 of the fifth homework for the course "Algorithmic Methods of Data Mining", Academic year 2023–2024.
 
 ## Contents
 
