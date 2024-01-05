@@ -24,15 +24,11 @@ The Visualisation System in task 2 is meant to be interactive with the user. Sin
 Here you are able to see how system 1 is structured with all the pages and possible options:
 
 <p float="left">
-  <img src="images/home.png" width="200" />
-  <img src="images/graphs.png" width="200" /> 
+  <img src="images/home.png" width="200"  height="100" />
+  <img src="images/graphs.png" width="200"  height="100" /> 
+  <img src="images/collaboration_graph.png" width="200" height="100" />
+  <img src="images/Citation_graph.png" width="200" height="100" /> 
 </p>
-
-<p float="left">
-  <img src="images/collaboration_graph.png" width="200" heigth="100" />
-  <img src="images/Citation_graph.png" width="200" /> 
-</p>
-
 
 
 <code style="background:red;color:black">**System 2:**</code> <br>
