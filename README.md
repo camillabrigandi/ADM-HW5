@@ -27,7 +27,7 @@ The Visualisation System in task 2 is meant to be interactive with the user. Sin
 <img src="images/graphs.png" width=250 height=200 />
 <p><strong>The user now has to choose the graph</strong></p>
 
-<img src="images/Collaboration_graph.png" width=350 height=300 />
+<img src="images/collaboration_graph.png" width=350 height=300 />
 <p><strong>Collaboration Graph</strong></p>
 
 <img src="images/Citation_graph.png" width=350 height=300 />
