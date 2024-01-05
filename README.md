@@ -17,7 +17,7 @@ This repository contains the submission of Group #9 of the fifth homework for th
 
 ## Visualisation System
 
-The Visualisation System in task 2 is meant to be interactive with the user. Since the cells are already executed, here we plot some examples of how the system is structured. if you want to have a full experience of it, you have to download the __`main.ipynb`__ file and execute the cells. Please, note that some of them may need coupple of minutes to execute due to the large amount of data.
+The Visualisation System in task 2 is meant to be interactive with the user. Since the cells are already executed, here we plot some examples of how the system is structured. if you want to have a full experience of it, you have to download the __`main.ipynb`__ file and execute the cells. Please, note that some of them may need couple of minutes to execute due to the large amount of data.
 
 
 ### System 1
