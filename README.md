@@ -6,7 +6,8 @@
 * 
 *
 
-This repository contains the submission of Group #9 of the fifth homework for the course "Algorithmic Methods of Data Mining", Academic year 2023–2024.
+This repository contains the submission of Group #9 of the fifth homework for the course "Algorithmic Methods of Data Mining", Academic year 2023–2024. <br>
+Please, note that functions for the backend and frontend are stored into separated files. Please, refer to the contents table below: <br>
 
 ## Contents
 
