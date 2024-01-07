@@ -4,7 +4,7 @@
 * Camilla Brigandì - 2055650
 * Stefano Rinaldi - 1945551
 * Damian Zeller - 2118831
-*
+* Renato Fazio - 2144120
 
 This repository contains the submission of Group #9 of the fifth homework for the course "Algorithmic Methods of Data Mining", Academic year 2023–2024. <br>
 Please, note that functions for the backend and frontend are stored into separated files. Please, refer to the contents table below: <br>
